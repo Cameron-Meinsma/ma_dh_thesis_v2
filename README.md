@@ -66,7 +66,7 @@ This notebook contains the tables and visualizations for sub-research question 1
 
 This notebook contains the tables and visualizations for sub-research question 2.
 
-### 2.7 sub_rq_3_date_published.ipynb
+### 2.7 sub_rq_3_language.ipynb
 
 This notebook contains the tables and visualizations for the language portion of sub-research question 3.
 
