@@ -46,12 +46,6 @@ This notebook has been used to calculate the amount of additional tags per fando
 
 The _combined_metadata.jsonl_ dataset is available on the Hugging Face webpage of Trent M. Kelly: https://huggingface.co/datasets/trentmkelly/archiveofourown-meta.
 
-### 2.1 additional_tags.ipynb
-
-This notebook has been used to calculate the amount of additional tags per fandom and relationship category. It furthermore, has been used to calculate descriptive statistics.
-
-The _combined_metadata.jsonl_ dataset is available on the Hugging Face webpage of Trent M. Kelly: https://huggingface.co/datasets/trentmkelly/archiveofourown-meta.
-
 ### 2.2 scikit_classifiers.ipynb
 
 In this notebook, I have tested the Scikit-Learn classification models using 5-fold cross validation. I ended up not using any of the nine classifiers tested in this notebook.
